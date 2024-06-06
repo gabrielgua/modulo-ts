@@ -5,3 +5,4 @@ const button = document.getElementById('btn');
 button === null || button === void 0 ? void 0 : button.addEventListener('click', (e) => {
     console.log(e.target);
 });
+const olar = "ola" + 10;
